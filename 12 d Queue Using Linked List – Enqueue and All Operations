@@ -1,44 +1,47 @@
-# 12 d Queue Using Linked List – Enqueue and All Operations
 
-## Aim
+# 19CS301-Module12
+# Ex.No 12.a Stack Using Linked List in Python
 
-To write a Python program to add 4 elements to a queue and print the elements present at the front and rear of the queue.
+This project demonstrates a basic stack implementation in Python using list methods to mimic linked list behavior. It includes stack operations like **push**, **display**, **peek**, and **pop**.
 
-## Algorithm
+## AIM
+
+To Type and display all the elements inserted and also display after deleting one element. 
+
+## ALGORITHM
 
 1. Start  
-2. Create a queue  
-3. Append elements to the queue  
-4. Print the front and rear elements in the queue  
-5. Stop
+2. Create a stack  
+3. Append (push) elements to the stack
+4. Delete the last element inserted using pop()
+5. Print the elements of the stack  
+6. Stop
 
-## Program
+## PROGRAM
 
 ```python
-# Name: Nidhish B
-# Reg.No: 212223050032
 
-queue = []
+# Name: Mohamed Jafin
+# Reg.No: 212223020018
 
-queue.append('a')
-queue.append('b')
-queue.append('c')
-queue.append('d')
+stack = []
 
-print('Initial Queue: ' + str(queue))
+stack.append('a')
+stack.append('b')
+stack.append('c')
 
-front=queue[0]
+print("Stack after elements are pushed:")
+print(stack)
 
-print("\nElement at the front of the queue is .... ",front)
+print("Deleting the last element inserted:")
+print(stack.pop())
 
-rear=queue[3]
-
-print("\nElement at the rear of the queue is .... ",rear)
-
+print("Stack after elements are popped:")
+print(stack)
 ```
 ## OUTPUT
 
-![Screenshot 2025-05-07 232507](https://github.com/user-attachments/assets/c6292021-4802-4b10-bc19-da8dfac6b28c)
+![image](https://github.com/user-attachments/assets/6a406671-183b-4ad7-ae4a-f959df7d3718)
 
 ## RESULT
 
