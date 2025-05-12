@@ -17,7 +17,10 @@ To write a Python program to type and display the elements pushed into a stack u
 
 ## PROGRAM
 
-```python
+```
+## Reg no:212223020020
+## Name: Pradaksha V
+python
 stack = []
 
 # Push elements into the stack
@@ -41,7 +44,7 @@ print("Stack after pop:")
 print(stack)
 ```
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/6a384249-bdf2-4db1-bb51-5f6e6e2999a8)
 
 ## RESULT
-
-
+Thus, the given program is implemented and executed successfully.
