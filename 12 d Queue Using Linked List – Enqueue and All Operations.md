@@ -15,8 +15,8 @@ To write a Python program to add 4 elements to a queue and print the elements pr
 ## Program
 
 ```python
-# Name: Nidhish B
-# Reg.No: 212223050032
+# Name: Mohamed Jafin S
+# Reg.No: 212223020018
 
 queue = []
 
