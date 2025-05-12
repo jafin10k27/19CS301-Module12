@@ -18,8 +18,8 @@ To write a Python program to type and display the elements pushed into a stack u
 ## PROGRAM
 
 ```
-## Reg no:212223020020
-## Name: Pradaksha V
+## Reg no:212223020018
+## Name: Mohamed Jafin S
 python
 stack = []
 
